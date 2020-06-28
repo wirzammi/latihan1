@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+#profile {
+	background-image: url(background1.png);
+
+		
+}
+
+.dataP {
+
+	margin-left: 10%;
+	margin-right: 10%;
+
+}
+
+img {
+
+	
+	margin-top : 30px;
+	margin-left: 45% ;
+	display: inline-block;
+	
+
+
+}
+
+p {
+	font-size:15px ;
+	font-family: "Times New Roman";
+	color: black ;
+	text-align: center;
+	
+
+}
+
+hr {
+    width: 250px;
+    border-top: 3px solid #C93756;
+}
+
+h2 {
+
+}
+
